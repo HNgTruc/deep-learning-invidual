@@ -62,7 +62,7 @@ Dấu nhắc lệnh sẽ đổi thành:
 PowerShell thường chưa được "init" cho conda, dùng lệnh gọi thẳng file `activate.bat`:
 
 ```powershell
-cmd /k "C:\Users\<ten_may>\anaconda3\Scripts\activate.bat ai_prj"
+cmd /k "C:\Users\hntruc\anaconda3\Scripts\activate.bat ai_prj"
 ```
 
 Lệnh này mở một phiên cmd con bên trong, tự kích hoạt luôn môi trường `ai_prj`.
